@@ -1,0 +1,2 @@
+# GenAIMyProject
+Learning Project
